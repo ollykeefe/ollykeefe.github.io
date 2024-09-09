@@ -10,13 +10,8 @@ document.addEventListener("DOMContentLoaded",() =>{
             image.src= data.message
             image.width=100;
             image.height= 100;
-        }
-
-
-        )
+        }  )
             
     }
-
-    
 }
 )
